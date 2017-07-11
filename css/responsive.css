@@ -1,0 +1,276 @@
+@media (max-width: 768px) {
+    .content {
+        padding: 40% 0 0;
+    }
+
+    .img-responsive {
+        width: 264px;
+        height: 264px;
+    }
+
+    .box img {
+        width: 260px;
+    }
+
+    .hover-bg .hover-text {
+        height: 88% !important;
+        width: 95% !important;
+    }
+
+    .logo_img {
+        width: 270px;
+        margin-top: -1px;
+        margin-left: 10px;
+    }
+
+    #tf-menu.navbar-default .navbar-nav > li > a {
+        margin-left: 20px;
+        font-size: 10px;
+    }
+
+    iframe {
+        width: 500px !important;
+        height: 200px !important;
+    }
+
+    #tf-clients{
+        background-color: #333;
+        background-image: none;
+    }
+}
+
+@media (max-width: 603px) {
+    #tf-menu.navbar-default {
+        background-color: rgba(0, 0, 0, 0.79);
+    }
+
+    #tf-works li.pull-right, #tf-works li.pull-left {
+        margin-top: 10px;
+        float: none !important;
+        text-align: center;
+        display: block;
+    }
+
+    .img-responsive {
+        width: 264px;
+        height: 264px;
+    }
+
+    label {
+        float: none !important;
+    }
+
+    .pull-left.fnav,
+    .pull-right.fnav {
+        float: none !important;
+        text-align: center;
+    }
+
+    .hover-bg .hover-text {
+        padding: 12% 10%;
+    }
+
+    .service i {
+        width: 90px !important;
+        height: 90px !important;
+    }
+
+    .service i.fa {
+        font-size: 38px !important;
+        padding: 20px 20px !important;
+    }
+
+    .service h4 {
+        font-size: 16px !important;
+    }
+
+    iframe {
+        width: 300px !important;
+        height: 200px !important;
+    }
+}
+
+@media (max-width: 326px) {
+    .navbar-toggle {
+        width: 42px;
+        height: 35px;
+    }
+}
+
+@media (max-width: 360px) {
+    .hover-bg .hover-text {
+        padding: 22% 10%;
+    }
+
+    .img-responsive {
+        width: 260px;
+        height: 204px;
+        /*margin-left: 50px !important;
+        forgot why I made this*/
+    }
+
+    .text-center h2 {
+        font-size: 25px;
+    }
+}
+
+@media (max-width: 991px) {
+    #tf-menu.navbar-default .navbar-nav > li > a {
+        text-transform: uppercase;
+        color: #FFF;
+        font-size: 11px;
+        letter-spacing: 1px;
+        margin-top: -10px;
+    }
+
+    .logo_img {
+        width: 270px;
+        margin-left: -70px;
+        margin-top: 10px;
+    }
+
+    .img-responsive {
+        margin-left: 0;
+        height: 230px;
+        width: 270px;
+    }
+
+    .section-title {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    iframe {
+        width: 700px;
+        height: 400px;
+    }
+}
+
+@media (max-width: 845px) {
+    #tf-menu.navbar-default .navbar-nav > li > a {
+        text-transform: uppercase;
+        color: #FFF;
+        font-size: 9px;
+        letter-spacing: 1px;
+        margin-top: -10px;
+    }
+
+    #tf-menu.navbar-default {
+        margin-left: -15px;
+    }
+
+    .logo_img {
+        width: 270px;
+        margin-left: 5px;
+        margin-top: 10px;
+    }
+
+    .content > h1 {
+        font-size: 30px;
+    }
+
+    .content > p {
+    }
+}
+
+@media (max-width: 375px) {
+    .logo_img {
+        width: 220px;
+        margin-left: 5px;
+        margin-top: 10px;
+    }
+
+    .content > h1 {
+        font-size: 22px !important;
+    }
+
+    .section-title > h2 {
+        font-size: 22px !important;
+    }
+
+    .content > p {
+        font-size: 14px !important;
+    }
+
+    .about-text > p {
+        font-size: 13px;
+    }
+
+    .service i {
+        width: 80px !important;
+        height: 80px !important;
+    }
+
+    .service i.fa {
+        font-size: 35px !important;
+        padding: 18px 17px !important;
+    }
+
+    .service h4 {
+        font-size: 15px !important;
+    }
+}
+
+@media (max-width: 1199px) {
+    .hover-bg .hover-text {
+        height: 82% !important;
+    }
+
+    .biggy {
+        height: 216px;
+        font-size: 45px;
+    }
+}
+
+@media (max-width: 990px) {
+    .hover-bg .hover-text {
+        height: 88% !important;
+        width: 90% !important;
+    }
+
+    .hover-bg {
+        width: 88% !important;
+        margin-left: 50px !important;
+    }
+
+    .biggy {
+        height: 230px;
+        width: 269px;
+        font-size: 45px;
+    }
+
+    .box {
+    }
+}
+
+@media (max-width: 767px) {
+    .hover-bg .hover-text {
+        height: 88% !important;
+        width: 95% !important;
+    }
+}
+
+@media (max-width: 703px) {
+    .box img {
+        width: 200px !important;
+        height: 200px !important;
+    }
+
+    .biggy {
+        height: 200px;
+        width: 212px;
+        font-size: 35px;
+    }
+
+    .hover-bg .hover-text {
+        height: 77% !important;
+        width: 91% !important;
+    }
+}
+
+@media (max-width: 412px){
+    .clients img{
+        width: 80px;
+        height: 80px;
+    }
+}
